@@ -7,7 +7,7 @@ A project file to easily create demo apps for exploring design and experiences, 
 In order to build and run DesignDemo, you must install first project dependencies via **CocoaPods**. To do so:
 ```
 $ gem install cocoapods # If necessary
-$ cd weedly
+$ cd DesignDemo
 $ pod install
 ```
 
